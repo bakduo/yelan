@@ -1,6 +1,8 @@
 venv
 migrations/*
 fixtures/*
+tejidos/fixtures/*
+tejidos/migrations/*
 tinymce/*
 *.pyc
 *.log

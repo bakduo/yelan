@@ -1,0 +1,13 @@
+venv
+migrations/*
+fixtures/*
+tinymce/*
+*.pyc
+*.log
+*.pot
+uploads/*
+lanas.db
+local_settings.py
+dumpFixtures.sh
+templates_local/*
+static_media_local/*
